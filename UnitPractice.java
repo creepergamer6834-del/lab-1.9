@@ -141,6 +141,9 @@ public class UnitPractice {
 
     // Read REQ 11
     public String firstTwo(String str) {
+        if (str.length() == 0) {
+
+        }
         return "TODO";
     }
 
